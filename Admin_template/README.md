@@ -76,3 +76,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<a href="https://www.codechief.org/article/laravel-mix-example-tutorial-the-complete-guide">Reffer link 1</a> <br/>
+<a href="https://laravel.com/docs/7.x/mix#running-mix">Reffer link 2</a> <br/>
+
+<a href="https://pusher.com/tutorials/getting-started-laravel-mix-frontend">Reffer link 3</a> <br/>
+<a href="https://appdividend.com/2018/02/19/laravel-mix-compiling-assets-tutorial/">Reffer link 4</a> <br/>
+https://www.sitepoint.com/use-laravel-mix-non-laravel-projects/</br>
+https://www.sitepoint.com/use-laravel-mix-non-laravel-projects/</br>
+https://mattstauffer.com/blog/introducing-laravel-mix-new-in-laravel-5-4/</br>
+
